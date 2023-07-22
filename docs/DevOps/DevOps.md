@@ -10,3 +10,14 @@
 - Software Development Life Cycle [SDLC](SDLC.md)
 - Culture, Automation, Lean, Measurement, Sharing [CALMS](CALMS.md)
 
+## Технічні питання
+
+- [Networking](../Networking/Networking.md)
+- [Operating Systems](../Operating%20Systems/Operating%20Systems.md)
+- [Containers](../Containers/Containers.md)
+- [Configuration Management](../Configuration%20Management/Configuration%20Management.md)
+- [Infrastructure Provisioning](../Infrastructure%20Provisioning/Infrastructure%20Provisioning.md)
+
+
+
+
