@@ -1,0 +1,36 @@
+{
+  "syncFolderName": true,
+  "ctrlKey": true,
+  "altKey": false,
+  "hideFolderNote": true,
+  "templatePath": "",
+  "autoCreate": false,
+  "enableCollapsing": false,
+  "excludeFolders": [],
+  "showDeleteConfirmation": true,
+  "underlineFolder": true,
+  "allowWhitespaceCollapsing": false,
+  "underlineFolderInPath": true,
+  "openFolderNoteOnClickInPath": true,
+  "openInNewTab": false,
+  "folderNoteName": "{{folder_name}}",
+  "folderNoteType": ".md",
+  "disableFolderHighlighting": false,
+  "newFolderNoteName": "{{folder_name}}",
+  "storageLocation": "insideFolder",
+  "syncDelete": false,
+  "showRenameConfirmation": true,
+  "defaultOverview": {
+    "title": "{{folderName}} overview",
+    "disableTitle": false,
+    "depth": 3,
+    "includeTypes": [
+      "folder",
+      "markdown"
+    ],
+    "style": "list",
+    "disableFileTag": false
+  },
+  "useSubmenus": true,
+  "syncMove": true
+}
