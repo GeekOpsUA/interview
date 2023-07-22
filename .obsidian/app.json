@@ -1,0 +1,14 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "docs",
+  "promptDelete": false,
+  "spellcheckLanguages": [
+    "uk",
+    "en-US"
+  ],
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "assets",
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false
+}
