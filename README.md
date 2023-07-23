@@ -4,7 +4,7 @@
 
 ## DevOps road map
 
-![DevOps road map](assets/diagram/devops_roadmap.png)
+[![DevOps road map](assets/diagram/devops_roadmap.png)](whiteboards/devops_roadmap.canvas)
 
 ## Documentation
 
