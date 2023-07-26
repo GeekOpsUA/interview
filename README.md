@@ -12,8 +12,8 @@
 - [Networking](docs/Networking/Networking.md)
 - [Operating Systems](docs/Operating%20Systems/Operating%20Systems.md)
 - [Containers](docs/Containers/Containers.md)
-	- [Container Orchestration](docs/Containers/Container%20Orchestration/Container%20Orchestration.md)
-		- [Kubernetes](docs/Containers/Container%20Orchestration/Kubernetes/Kubernetes.md)
+	- [Container Orchestration](docs/Container%20Orchestration/Container%20Orchestration.md)
+		- [Kubernetes](docs/Container%20Orchestration/Kubernetes/Kubernetes.md)
 - [Configuration Management](docs/Configuration%20Management/Configuration%20Management.md)
 - [Infrastructure Provisioning](docs/Infrastructure%20Provisioning/Infrastructure%20Provisioning.md)
 
