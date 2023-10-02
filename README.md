@@ -16,8 +16,7 @@
 		- [Kubernetes](docs/Container%20Orchestration/Kubernetes/Kubernetes.md)
 - [Configuration Management](docs/Configuration%20Management/Configuration%20Management.md)
 - [Infrastructure Provisioning](docs/Infrastructure%20Provisioning/Infrastructure%20Provisioning.md)
-- [Interview](docs/interview/Interview.md)
-
+- [Interview](docs/Interview/Interview.md)
 
 ## Usage
 
