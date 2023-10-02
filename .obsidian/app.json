@@ -2,10 +2,7 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "docs",
   "promptDelete": false,
-  "spellcheckLanguages": [
-    "uk",
-    "en-US"
-  ],
+  "spellcheckLanguages": null,
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
   "attachmentFolderPath": "assets",
