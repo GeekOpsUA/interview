@@ -21,16 +21,31 @@
   "syncDelete": false,
   "showRenameConfirmation": true,
   "defaultOverview": {
+    "id": "",
+    "folderPath": "",
     "title": "{{folderName}} overview",
-    "disableTitle": false,
+    "showTitle": false,
     "depth": 3,
     "includeTypes": [
       "folder",
       "markdown"
     ],
     "style": "list",
-    "disableFileTag": false
+    "disableFileTag": false,
+    "sortBy": "name",
+    "sortByAsc": true,
+    "showEmptyFolders": false,
+    "onlyIncludeSubfolders": false,
+    "storeFolderCondition": true,
+    "showFolderNotes": false,
+    "disableTitle": false
   },
   "useSubmenus": true,
-  "syncMove": true
+  "syncMove": true,
+  "frontMatterTitle": {
+    "enabled": false,
+    "explorer": true,
+    "path": true
+  },
+  "settingsTab": "general"
 }
