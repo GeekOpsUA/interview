@@ -1,0 +1,10 @@
+.DS_Store
+
+# Obsidian workspace file
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/appearance.json
+
+# Logseq backup directory and recyle bin
+logseq/bak
+logseq/.recycle
