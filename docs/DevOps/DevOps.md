@@ -14,6 +14,7 @@
 
 - [Networking](../Networking/Networking.md)
 - [Operating Systems](../Operating%20Systems/Operating%20Systems.md)
+- [Live in Terminal](../Live%20in%20terminal/Live%20in%20Terminal.md)
 - [Containers](../Containers/Containers.md)
 - [Configuration Management](../Configuration%20Management/Configuration%20Management.md)
 - [Infrastructure Provisioning](../Infrastructure%20Provisioning/Infrastructure%20Provisioning.md)
