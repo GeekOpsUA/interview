@@ -1,0 +1,21 @@
+﻿site_name: DevOps Interview Questions
+theme:
+  name: material
+  language: uk
+  palette:
+    # Palette toggle for dark mode
+    - scheme: slate
+      accent: deep purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    # Palette toggle for light mode
+    - scheme: default
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+plugins:
+  - obsidian-bridge
+markdown_extensions:
+  - obsidian_callouts
