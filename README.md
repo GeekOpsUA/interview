@@ -6,6 +6,7 @@
 
 [![DevOps road map](assets/diagram/devops_roadmap.png)](whiteboards/devops_roadmap.canvas)
 *— Based on «[DevOps Roadmap](https://roadmap.sh/devops)»*
+
 ## Documentation
 
 - [Interview](docs/Interview/Interview.md)
